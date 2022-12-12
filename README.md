@@ -4,6 +4,10 @@ This project use [Bitly](https://app.bitly.com/bbt2/) service to generate a shor
 
 Live Website : [linkshorter](https://link-shortener-website-five.vercel.app/)
 
+## Screen shot:
+![image](https://user-images.githubusercontent.com/11816618/207028781-2c4e73f8-ec93-46d8-9d79-68cafe68af69.png)
+
+
 ## Used Technologies
 
 - [React.js](https://reactjs.org/).
