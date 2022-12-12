@@ -2,6 +2,8 @@
 
 This project use [Bitly](https://app.bitly.com/bbt2/) service to generate a shorten link for the user input link.
 
+Live Website : [linkshorter](https://link-shortener-website-five.vercel.app/)
+
 ## Used Technologies
 
 - [React.js](https://reactjs.org/).
